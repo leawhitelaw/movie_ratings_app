@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preference_order">
+        <item>@string/pref_popularity</item>
+        <item>@string/pref_ratings</item>
+    </string-array>
+</resources>
